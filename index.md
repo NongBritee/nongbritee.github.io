@@ -12,10 +12,10 @@ Results-driven and highly skilled Software Engineer with over 8 years of experie
 ## Professional Experience:
 ### IT Specialist
 True Digital Group\
-2022 - Present
+2022 - Present (Full-time)
 
 - Perform a performance tuning on backend system for World Cup 2022.
-- Implemented TrueID One, new product bundle to allow customer purchase multiple package subscription at once with special price - TrueID One.
+- Implemented TrueID One, new product bundle to allow customer purchase multiple package subscription at once with special price.
 - Implemented TrueOnline Priviledge, Integrated with trueonline partner to give a cross privilege to customer who's already subscription at trueonline.
 - Developed and maintained the subscription of streaming system.
 - Optimized website performance (MyAccount - TrueID) to ensure customers enjoy a seamless and delightful shopping experience when making their product selections and purchases.
@@ -32,7 +32,7 @@ True Digital Group\
 
 ### Software Engineer/ System Analyst
 Krungsri Consumer\
-2018 - 2022
+2018 - 2022 (Full-time)
 
 - Designed and implemented a robust transaction gateway, seamlessly handling a daily influx of over 500,000 transactions, ensuring swift and secure financial operations.
 - Developed and maintained the Real-Time Decision Management system provided marketing campaigns with multi conditional rewards to customer transaction like coupon, cashback, point.
