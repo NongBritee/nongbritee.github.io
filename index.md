@@ -92,7 +92,7 @@ Freelance\
 - Exam System for Chinese Language Test (React, SpringBoot)
 
 ## Education:
-**Bachelor's in Computer Engineering** - Suranaree University of Technologies\
+**Bachelor's degree in Computer Engineering** - Suranaree University of Technologies\
 Nakhon ratchasima, Thailand - 2015
 
 ## Certifications:
