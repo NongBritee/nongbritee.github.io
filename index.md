@@ -34,6 +34,7 @@ True Digital Group\
 Krungsri Consumer\
 2018 - 2022 (Full-time)
 
+- As Leader on designed and implemented lead consolidation system, the system that console all the customer lead & data in bank and intergration with CRM360 system. Using microservice design.
 - Designed and implemented a robust transaction gateway, seamlessly handling a daily influx of over 500,000 transactions, ensuring swift and secure financial operations.
 - Developed and maintained the Real-Time Decision Management system provided marketing campaigns with multi conditional rewards to customer transaction like coupon, cashback, point.
 - Collaborated with cross-functional teams to gather requirements, design software solutions, and implement feature enhancements.
