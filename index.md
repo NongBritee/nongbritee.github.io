@@ -28,7 +28,7 @@ True Digital Group\
 - Communicate effectively with other members of the development team and project manager.
 - Ensure that the system meets the expected quality standards.
 - Employed Agile/Scrum methodologies to plan and execute development sprints, ensuring efficient project delivery.
-- Technologies: Golang, Nodejs, React, Nextjs, Openshift, Google Kubernetes Engine, Jenkins, NewRelic, MongoDB, Oracle, Redis, Kafka, Firestore, Tyk API gateway, Helm, Docker
+- Technologies: Golang, Nodejs, React, Nextjs, Openshift, Google Kubernetes Engine, Jenkins, NewRelic, MongoDB, Oracle, Redis, Kafka, Firestore, Tyk API gateway, Helm, Docker, k6
 
 ### Software Engineer/ System Analyst
 Krungsri Consumer\
@@ -103,9 +103,8 @@ Nakhon ratchasima, Thailand - 2015
 - Strong Programming Language: Golang, Java, Javascript
 - Automate testing tools: Selenium, Appium (Mobile Testing)
 - Framework: Echo, Fiber, SpringBoot, React, Nextjs, Tailwindcss
-- Technologies: Microservices, Openshift Container Platform, Rest API, Docker, Jenkins (CI/CD), Git, Oracle, MongoDB, MySql, Redis, Kafka, Firestore
-- Cloud Technologies: Cloudflare, AWS, GCP, GKE
-- Other: Vercel, Railways, MongoAtlas, NewRelics
+- Technologies: Microservices, Openshift Container Platform, Rest API, Docker, Jenkins (CI/CD), Git, Oracle, MongoDB, MySql, Redis, Kafka, k6, strapi, NewRelics
+- Cloud Technologies: Cloudflare, AWS, GCP, GKE, Vercel, Railways, MongoAtlas, Firestore
 - Leadership and Team Management
 - Agile/Scrum Methodologies
 - Problem Solving and Debugging
